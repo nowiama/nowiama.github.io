@@ -1,2 +1,2 @@
-# nowiama.github.io
-nowiama website and github repository.
+# Nowiama
+Nowiama website and github repository.
